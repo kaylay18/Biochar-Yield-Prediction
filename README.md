@@ -9,6 +9,8 @@ The user inputs are the following:
 - Feedstock Ultimate Analysis - C, H, O, N
 - Pylorosis Conditions - Residence Time, Temperature, Heating Rate
 
+In order to deploy the app on huggingface yourself, please upload the bestmodel file, requirements, and app.py
+
 ## Description
 This repository includes the data preprocessing in google colab and the best/trained machine learning model. The best model identified from training multiple machine learning models is Logistic Regression. The datasource for this project is included in the repository.
 
